@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log('test');\n\n//# sourceURL=webpack:///./src/js/muscles.js?");
+eval("/**\r\n * @namespace muscles\r\n */\r\nconst muscles = (function() {\r\n  // Code...\r\n\r\n  return {};\r\n})();\n\n//# sourceURL=webpack:///./src/js/muscles.js?");
 
 /***/ })
 
