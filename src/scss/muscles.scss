@@ -1,1 +1,21 @@
+/* Normalize.css */
 @import 'vendor/normalize';
+
+/* Base styles and tools */
+@import 'base/utils';
+@import 'base/grid';
+@import 'base/misc';
+@import 'base/queries';
+@import 'base/root';
+@import 'base/base';
+@import 'base/spacing';
+@import 'base/typography';
+
+/* Components */
+@import 'components/alerts';
+@import 'components/buttons';
+@import 'components/cards';
+@import 'components/code';
+@import 'components/forms';
+@import 'components/lists';
+@import 'components/tables';
