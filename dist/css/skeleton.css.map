@@ -1,9 +1,0 @@
-{
-	"version": 3,
-	"file": "skeleton.css",
-	"sources": [
-		"../../src/scss/skeleton.scss"
-	],
-	"names": [],
-	"mappings": "AAAA,AAAA,KAAK,CAAC;EACJ,KAAK,EAAE,OAAO,GACf"
-}
